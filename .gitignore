@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+index-macos
+BLtest.xlsx
+BLtest.xlsm
+index-linux
+creditentials.js
+package-lock.json
+test.xlsm
+wantedlist.xml
+index-win.exe
+badRefs.txt
